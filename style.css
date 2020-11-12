@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  font-family: Arial, Verdana, San-serif;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+
+#title {
+  color: Aqua; 
+}
+
+#links {
+  margin-top: 40px;
+}
