@@ -17,3 +17,8 @@ body {
 #links {
   margin-top: 40px;
 }
+
+.boxart {
+  display: inline-block;
+  margin: 20px;
+}
