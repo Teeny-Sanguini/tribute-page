@@ -3,6 +3,10 @@ body {
   font-family: Arial, Verdana, San-serif;
 }
 
+figcaption {
+  font-style: italic;
+}
+
 #image {
   max-width: 100%;
   display: block;
